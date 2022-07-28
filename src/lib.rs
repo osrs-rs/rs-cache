@@ -82,6 +82,7 @@ pub mod checksum;
 pub mod definition;
 pub mod error;
 pub mod extension;
+pub mod extensions;
 pub mod loader;
 
 #[doc(inline)]
